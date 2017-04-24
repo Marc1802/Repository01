@@ -7,5 +7,9 @@ pull
 push
 log
 commit
+
 ...
----
+
+
+Jetzt ich wieder. 
+
